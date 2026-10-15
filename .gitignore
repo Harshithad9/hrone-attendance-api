@@ -2,3 +2,6 @@ venv/
 .env
 __pycache__/
 *.pyc
+cleanup_test.py
+ping_test.py
+check_explain.py
